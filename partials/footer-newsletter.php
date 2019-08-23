@@ -1,18 +1,17 @@
-<div class="newsletter">
-    <div class="container">
-        <div class="row newsletter-content">
-            <div class="col-md-1">
-                <div class="news-icon">
-                    <div class="icon-circle icon-envelope icon-size-64"></div>
-                </div>
-            </div>
-            <div class="col-md-11">
-                <div class="news-content" id="newsletterAccessibility">
-                    <h2>Sign me up to The National Archives' mailing list</h2>
-                    <p>Subscribe now for regular news, updates and priority booking for events.<br><a
-                            href="<?php echo $url ?>" class="button">Sign up</a></p>
-                </div>
-            </div>
-        </div>
+<div class="newsletter-template">
+    <div class="news-icon">
+        <img src="https://www.nationalarchives.gov.uk/wp-content/themes/tna-base/img/tna-newsletter-icon.png"
+            alt="The National Archives Newsletter Icon" />
+    </div>
+
+    <div class="news-content" id="newsletterAccessibility">
+        <h2>Sign me up to the mailing list</h2>
+        <p>Subscribe now for regular news, updates and priority booking for events</p>
+    </div>
+
+    <div class="news-form">
+        <a href="#" class="button">Sign up</a>
+        <div class="small small-margin"><a href="http://www.nationalarchives.gov.uk/legal/privacy-policy/"
+                title="About our privacy policy">About our privacy policy</a></div>
     </div>
 </div>
