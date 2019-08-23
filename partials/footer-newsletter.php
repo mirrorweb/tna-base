@@ -10,7 +10,7 @@
     </div>
 
     <div class="news-form">
-        <a href="#" class="button">Sign up</a>
+        <a href="https://test.nationalarchives.gov.uk/contact-us/email-updates/" class="button">Sign up</a>
         <div class="small small-margin"><a href="http://www.nationalarchives.gov.uk/legal/privacy-policy/"
                 title="About our privacy policy">About our privacy policy</a></div>
     </div>
